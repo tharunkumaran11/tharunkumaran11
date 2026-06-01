@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Tharun+Kumaran+M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AWS+Cloud+%26+DevOps+Engineer+%7C+Building+Secure+Cloud+Infrastructure&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharun+Kumaran+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS+Cloud+%26+DevOps+Engineer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
