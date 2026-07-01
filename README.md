@@ -93,7 +93,7 @@ A serverless cost-governance tool catching wasted AWS spend automatically — mo
 ---
 
 <details>
-<summary><h3 style="display:inline">🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability (click to expand)</h3></summary>
+<summary><strong style="font-size:1.25em">🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability (click to expand)</strong></summary>
 <br>
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI-D24939?style=flat-square&logo=jenkins) ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana)
@@ -107,7 +107,7 @@ Production-style multi-server AWS monitoring environment with OpenVPN-secured ac
 </details>
 
 <details>
-<summary><h3 style="display:inline">🔹 5. Terraform AWS Infrastructure — IaC with Remote State (click to expand)</h3></summary>
+<summary><strong style="font-size:1.25em">🔹 5. Terraform AWS Infrastructure — IaC with Remote State (click to expand)</strong></summary>
 <br>
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform) ![DynamoDB](https://img.shields.io/badge/DynamoDB-State_Locking-4053D6?style=flat-square&logo=amazondynamodb)
@@ -121,7 +121,7 @@ Infrastructure as Code project provisioning AWS resources with proper team-ready
 </details>
 
 <details>
-<summary><h3 style="display:inline">🔹 6. Terraform + GitHub Actions — Automated Infrastructure Deployment (click to expand)</h3></summary>
+<summary><strong style="font-size:1.25em">🔹 6. Terraform + GitHub Actions — Automated Infrastructure Deployment (click to expand)</strong></summary>
 <br>
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions)
@@ -135,7 +135,7 @@ CI/CD-driven infrastructure automation — push to deploy.
 </details>
 
 <details>
-<summary><h3 style="display:inline">🔹 7. AWS E-Commerce Architecture — Multi-Tier Cloud Networking (click to expand)</h3></summary>
+<summary><strong style="font-size:1.25em">🔹 7. AWS E-Commerce Architecture — Multi-Tier Cloud Networking (click to expand)</strong></summary>
 <br>
 
 ![VPC](https://img.shields.io/badge/VPC-Networking-232F3E?style=flat-square&logo=amazonaws) ![RDS](https://img.shields.io/badge/RDS-Database-527FFF?style=flat-square&logo=amazonrds)
@@ -149,7 +149,7 @@ Core AWS networking fundamentals applied to a real architecture.
 </details>
 
 <details>
-<summary><h3 style="display:inline">🔹 8. Dockerized E-Commerce Application — Containerized Multi-Service App (click to expand)</h3></summary>
+<summary><strong style="font-size:1.25em">🔹 8. Dockerized E-Commerce Application — Containerized Multi-Service App (click to expand)</strong></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker)
