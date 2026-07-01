@@ -92,7 +92,7 @@ A serverless cost-governance tool catching wasted AWS spend automatically — mo
 
 ---
 
-### 🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability (click to expand)</summary>
+### 🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability 
 <br>
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI-D24939?style=flat-square&logo=jenkins) ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana)
