@@ -79,9 +79,7 @@ Fully serverless Kubernetes deployment with **zero EC2 nodes to manage.**
 
 ---
 
-<details>
-<summary><strong style="font-size:1.25em">🔹 3. AWS FinOps Cost Optimization & Monitoring Platform (click to expand)</strong></summary>
-<br>
+### 🔹 3. AWS FinOps Cost Optimization & Monitoring Platform
 
 ![Lambda](https://img.shields.io/badge/Lambda-Serverless-FF9900?style=flat-square&logo=awslambda) ![Python](https://img.shields.io/badge/Python-Boto3-3776AB?style=flat-square&logo=python) ![SNS](https://img.shields.io/badge/SNS-Alerts-FF4F8B?style=flat-square&logo=amazonaws)
 
@@ -91,9 +89,10 @@ A serverless cost-governance tool catching wasted AWS spend automatically — mo
 - Runs at **under $0.05/month**
 
 🔗 [View Repository](https://github.com/tharunkumaran11/aws-cost-monitoring-platform)
-<details>
 
-<details>  
+---
+
+<details>
 <summary><strong style="font-size:1.25em">🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability (click to expand)</strong></summary>
 <br>
 
