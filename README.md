@@ -243,21 +243,6 @@ Multi-service e-commerce app fully containerized for portability.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:203A43,100:2C5364&height=90&section=header&text=GitHub%20Stats&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tharunkumaran11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumaran11&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkumaran11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:203A43,100:2C5364&height=90&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
 </p>
 
